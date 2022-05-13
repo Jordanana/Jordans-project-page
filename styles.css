@@ -1,0 +1,36 @@
+.Navbar {
+    display: flex;
+    justify-content: space-evenly;
+    border: 10px double;
+}
+
+.center-text {
+    text-align: center;
+}
+.Brown{
+    height: 200px;
+}
+.beige{
+    height: 200px;
+}
+.black{
+    height: 200px;
+}
+.blue{
+    height: 210px;
+}
+.green{
+    height: 210px;
+}
+.white{
+    height: 210px;
+}
+.pink{
+    height: 210px;
+}
+.purple{
+    height: 210px;
+}
+.orange{
+    height: 210px;
+}
